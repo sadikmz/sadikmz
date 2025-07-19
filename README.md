@@ -1,5 +1,12 @@
-## Hi there 👋
 
+Enthusiastic bioinformatician passionate about comparative and evolutionary genomics, as well as domestication studies. I am keen to develop, implement, and use computational tools to solve complex biological problems.
+
+## Social media links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sadikmz/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/sadikmz)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Profile-blue?style=flat-square&logo=bluesky)](https://bsky.app/profile/sadikmz.bsky.social)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/sadikmz) -->
 <!--
 **sadikmz/sadikmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
