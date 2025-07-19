@@ -1,5 +1,6 @@
 
-Enthusiastic bioinformatician passionate about comparative and evolutionary genomics, as well as domestication studies. I am keen to develop, implement, and use computational tools to solve complex biological problems.
+Enthusiastic bioinformatician passionate about comparative and evolutionary genomics, as well as domestication studies. 
+<!-- I am keen to develop, implement, and use computational tools to solve complex biological problems. -->
 
 ## Social media links
 
