@@ -2,7 +2,7 @@
 Enthusiastic bioinformatician passionate about comparative and evolutionary genomics, as well as domestication studies. 
 <!-- I am keen to develop, implement, and use computational tools to solve complex biological problems. -->
 
-## Social media links
+<!--## Social media links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sadikmz/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/sadikmz)
